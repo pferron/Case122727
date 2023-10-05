@@ -65,7 +65,7 @@
 		<netty.version>4.1.71.Final</netty.version>
 		<netty-handler.version>5.0.0.Alpha1</netty-handler.version>
 <!--		<snakeyaml.version>1.31</snakeyaml.version>-->
-		<json-smart.version>2.4.7</json-smart.version>
+		<json-smart.version>2.4.9</json-smart.version>
 		<el-api.version>3.0.0</el-api.version>
 		<inject.version>1</inject.version>
 
