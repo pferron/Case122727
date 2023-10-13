@@ -717,6 +717,11 @@
 	<build>
 		<plugins>
 			<plugin>
+		          <groupId>org.apache.maven.plugins</groupId>
+		          <artifactId>maven-dependency-plugin</artifactId>
+		          <version>3.6.0</version>
+		        </plugin>
+			<plugin>
 				<groupId>com.googlecode.maven-download-plugin</groupId>
 				<artifactId>download-maven-plugin</artifactId>
 				<version>1.6.0</version>
